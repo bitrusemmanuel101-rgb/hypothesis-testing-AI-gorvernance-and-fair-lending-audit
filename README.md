@@ -10,11 +10,9 @@ This project tests whether a bank's automated account-opening risk process behav
 
 Both gaps are statistically significant. The score gap is modest in size and does not on its own show unfair treatment, because fraud really is more common in the older group in this data.
 
-<<<<<<< HEAD
 
 [View Executive Summary](visuals/executive-summary.png)
-=======
->>>>>>> 6876bdbefb16a4a06224746812ef2367b9acf60b
+
 ---
 
 ## Context
